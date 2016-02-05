@@ -15,6 +15,10 @@ Dieses Archiv dient der Erfassung und Verbreitung aller gesammelten Materialien 
 ## Index
 In jedem Ordner gibt es eine eigene Index-Datei, die alle Dateien aufführt. So ist es einfach möglich, die Inhalte direkt als Link aufzurufen und dorthin zu springen.
 
+## Markdown
+Um Readmes zu schreiben und zu formatieren, schaut euch bitte diese Referenz an, die alle wichtigen Befehle demonstriert.
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ## Mitglieder
 Mitglieder dieser Gruppe, die die entsprechenden Rechte an diesem Projekt besitzen, sind:
 * James
