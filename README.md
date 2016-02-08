@@ -1,5 +1,4 @@
 # 3JGKP_Missionsbau
-GitHub Account der Missionsbaugruppe der 3. Jägerkompanie
 
 Willkommen auf der Projektseite der Missionsbaugruppe der [3.Jägerkompanie](http://www.3.xn--jgerkompanie-gcb.de).
 
