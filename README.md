@@ -17,7 +17,7 @@ In jedem Ordner gibt es eine eigene Index-Datei, die alle Dateien aufführt. So 
 
 ## Markdown
 Um Readmes zu schreiben und zu formatieren, schaut euch bitte diese Referenz an, die alle wichtigen Befehle demonstriert.
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 [Tutorial](http://markdowntutorial.com/lesson/1/)
 
 ## Mitglieder
